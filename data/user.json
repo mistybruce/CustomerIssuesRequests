@@ -1,0 +1,6 @@
+{"user":[
+    {"userID": "google16", "password": "password", "fullName": "Google Inc.", "status": "yes"},
+    {"userID": "amazon", "password": "password", "fullName": "Amazon Co.", "status": "no"},
+    {"userID": "microsoft", "password": "password", "fullName": "Microsoft Inc.", "status": "yes"}
+    
+]}
